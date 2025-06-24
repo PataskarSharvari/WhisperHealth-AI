@@ -1,5 +1,11 @@
 # 🏥 WhisperHealth - Your AI Medical Assistant 🤖🩺
-**WhisperHealth** is an AI-powered multimodal medical assistant chatbot, combining **Vision**, **Voice**, and **Natural Language Understanding**. Designed with real-time voice interaction, image analysis, and context-aware medical responses, this AI bot aims to assist users with medical-related queries through a conversational interface.
+**WhisperHealth** is an AI-powered multimodal medical assistant chatbot, combining **Vision**, **Voice**, and **Natural Language Understanding**. Designed with real-time voice interaction, image analysis, and context-aware medical responses, this AI bot aims to assist users with medical-related queries through a conversational interface. Here I have built a multimodal AI chatbot using LLaMA3 Vision, OpenAI Whisper, and Groq LLMs for real-time medical Q&A.
+
+Integrated speech-to-text, image analysis, and LLM inference to generate voice-based medical guidance.
+
+Designed a voice-enabled UI with Gradio; deployed live on Hugging Face Spaces.
+
+Technologies: Python, Whisper, Gradio, Groq API, gTTS, ffmpeg, .env, Hugging Face.
 
 🌐 **[Live Demo on Hugging Face Spaces](https://huggingface.co/spaces/Sharvari19/WhisperHealth-AI-Medical-Chatbot)**
 
@@ -117,14 +123,6 @@ python app.py
 
 ---
 
-## 🧪 Output Screenshots
-
-| Feature        | Screenshot                            |
-|----------------|----------------------------------------|
-| Main UI        | ![UI](assets/ui.png)                  |
-| Voice Reply    | ![Voice](assets/voice-response.png)   |
-| Image Query    | ![Image](assets/image-query.png)      |
-
 > For live demo, visit [WhisperHealth on Hugging Face](https://huggingface.co/spaces/SharvariPataskar/WhisperHealth-AI)
 
 ---
@@ -149,7 +147,7 @@ python-dotenv
 - 💰 Upgrade to state-of-the-art paid Vision LLMs (e.g. Gemini, Claude)
 - 🧠 Finetune LLaMA-3 Vision model on medical datasets
 - 🌐 Add multilingual support (Hindi, Marathi, etc.)
-- 🧾 Store past interactions securely with MongoDB
+- 🧾 Store past interactions securely with MongoDB and add RAG (Retrieval-Augmented Generation) with medical knowledge base.
 - 📱 Mobile optimized frontend (React Native)
 
 ---
