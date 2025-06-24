@@ -96,7 +96,6 @@ Create a `.env` file and add the following:
 
 ```env
 GROQ_API_KEY=your_groq_api_key
-ELEVENLABS_API_KEY=your_elevenlabs_api_key
 ```
 
 ### 🔊 5. Install Required Audio Libraries
