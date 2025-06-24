@@ -3,6 +3,8 @@
 
 🌐 **[Live Demo on Hugging Face Spaces](https://huggingface.co/spaces/Sharvari19/WhisperHealth-AI-Medical-Chatbot)**
 
+---
+
 ## 🧠 Features
 
 - 🎙️ Voice-based patient interaction using speech recognition.
@@ -10,6 +12,8 @@
 - 💬 Conversational AI using GROQ API for fast, accurate LLM inference.
 - 🗣️ Text-to-Speech response via gTTS & ElevenLabs.
 - 🌐 Clean and intuitive Gradio UI for seamless interaction.
+
+---
 
 ## 🛠️ Tech Stack
 
@@ -22,6 +26,8 @@
 | UI Layer         | Gradio                 |
 | Language         | Python                 |
 | Dev Environment  | VS Code                |
+
+---
 
 ## 🗂️ Project Structure
 
