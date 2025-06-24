@@ -1,0 +1,10 @@
+gradio>=4.26.0
+gtts #if not then you can use ElevenLabs too 
+pydub
+groq
+python-dotenv
+speechrecognition
+ffmpeg-python
+openai-whisper  # if needed as a fallback or reference for whisper-large-v3
+torch           # required for whisper models to run
+pyaudio
