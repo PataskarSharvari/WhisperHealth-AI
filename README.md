@@ -10,7 +10,7 @@
 - 🎙️ Voice-based patient interaction using speech recognition.
 - 👁️ Vision capabilities using LLaMA 3 Vision for image-based queries.
 - 💬 Conversational AI using GROQ API for fast, accurate LLM inference.
-- 🗣️ Text-to-Speech response via gTTS & ElevenLabs.
+- 🗣️ Text-to-Speech response via gTTS.
 - 🌐 Clean and intuitive Gradio UI for seamless interaction.
 
 ---
@@ -22,7 +22,7 @@
 | LLM Inference    | GROQ API               |
 | Vision Model     | LLaMA 3 Vision         |
 | Transcription    | OpenAI Whisper         |
-| Text to Speech   | gTTS + ElevenLabs      |
+| Text to Speech   | gTTS (or ElevenLabs )  |
 | UI Layer         | Gradio                 |
 | Language         | Python                 |
 | Dev Environment  | VS Code                |
@@ -170,8 +170,7 @@ MIT License
 ## 📬 Contact
 
 - 👩‍💻 Developer: [Sharvari Pataskar](https://github.com/PataskarSharvari)
-- 📫 Email: sharvari.pataskar@example.com
-
+  
 ---
 
 ## ✨ Acknowledgements
@@ -180,4 +179,4 @@ MIT License
 - [Groq API](https://console.groq.com/)
 - [Gradio](https://www.gradio.app/)
 - [OpenAI Whisper](https://github.com/openai/whisper)
-- [ElevenLabs](https://www.elevenlabs.io/)
+
