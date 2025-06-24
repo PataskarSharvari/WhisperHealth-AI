@@ -1,5 +1,4 @@
-# WhisperHealth-AI - Your Medical Chatbot 🤖🩺
-
+# AI Medical Chatbot 🤖🩺
 A voice-enabled AI chatbot that listens to patients, transcribes audio using Whisper (via Groq API), and provides medical assistance.
 
 ## Features
