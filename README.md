@@ -139,8 +139,8 @@ gtts
 elevenlabs
 python-dotenv
 ```
-## Preview :- 
-<img src="https://github.com/PataskarSharvari/WhisperHealth-AI/issues/1#issue-3172985263" width="900"/>
+## Project Preview :- 
+![Project Preview](https://github.com/PataskarSharvari/WhisperHealth-AI/blob/main/project_preview.png?raw=true)
 
 ---
 ## Presentation File :- 
