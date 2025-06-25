@@ -143,6 +143,10 @@ python-dotenv
 <img src="https://github.com/PataskarSharvari/WhisperHealth-AI/issues/1#issue-3172985263" width="900"/>
 
 ---
+## Presentation File :- 
+http://docs.google.com/presentation/d/1hsmq0Gul1JSfbahv-sjr2sgLr8AtYINP/edit?slide=id.p1#slide=id.p1
+
+---
 
 ## 📈 Roadmap & Future Improvements
 
