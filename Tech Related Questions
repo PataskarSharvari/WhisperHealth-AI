@@ -1,0 +1,16 @@
+Tech related questions :
+
+Q.Explain the Project.
+Ans = “My second project, WhisperHealth AI, is a multimodal AI-powered voice assistant designed for real-time healthcare information and query support.
+
+The goal was to make medical information easily accessible through voice commands, combining speech recognition, natural language understanding, and generative AI.
+
+I used OpenAI’s Whisper model for speech-to-text (STT) conversion and LLaMA-4 hosted via the Groq API for fast, low-latency language understanding and response generation. The interface was built using Gradio, and the final application was deployed on Hugging Face Spaces.
+
+The workflow goes like this: the user speaks → Whisper transcribes the voice input → a Python preprocessor cleans and masks sensitive text → the LLaMA model generates a meaningful response → the text is converted back to speech using GTTS for audio output.
+
+To measure performance, I tested the STT accuracy using the Word Error Rate (WER) metric and achieved around 92% transcription accuracy across multiple Indian accents and background noises.
+
+For safety and reliability, I used retrieval-augmented generation for medical answers and added a confidence threshold — if model confidence was low, it advised the user to consult a doctor instead of generating uncertain responses.
+
+This project helped me gain hands-on experience with AI model integration, latency optimization, prompt engineering, and multimodal deployment.”
